@@ -11,6 +11,7 @@ This is a ReactJS application that fetches news articles from the news API and d
 ## Screenshots
 
 ![Screenshot 1](https://github.com/dkasun2001/news-mag/blob/main/screenshot1.JPG)
+
 ![Screenshot 2](https://github.com/dkasun2001/news-mag/blob/main/screenshot2.JPG)
 
 ## Getting Started
